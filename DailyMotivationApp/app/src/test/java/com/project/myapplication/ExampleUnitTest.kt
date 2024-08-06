@@ -1,4 +1,4 @@
-package com.example.dailymotivationapp
+package com.project.myapplication
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.dailymotivationapp
+package com.project.myapplication
 
 import android.os.Bundle
 import android.view.View
